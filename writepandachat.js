@@ -72,7 +72,7 @@ styleElement.innerHTML = `
     content: "\f086";
     font-family: FontAwesome;
     font-size: 24px;
-    //color: #ffffff00;
+    background-color: transparent;
     position: absolute;
     top: 50%;
     left: 50%;
