@@ -40,7 +40,7 @@ chatWindow.style.right = "40px";
 chatWindow.style.borderRadius = "25px";
 chatWindow.style.width = "300px";
 chatWindow.style.height = "600px";
-chatWindow.style.border = "2px solid #5D3FD3	";
+chatWindow.style.border = "1px solid #808080	";
 
 
 const mediaQuery = window.matchMedia("(min-width: 550px)");
