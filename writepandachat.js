@@ -38,7 +38,7 @@ chatWindow.frameBorder = "0";
 chatWindow.style.position = "fixed";
 chatWindow.style.bottom = "90px";
 chatWindow.style.right = "40px";
-chatWindow.style.borderRadius = "25px";
+//chatWindow.style.borderRadius = "25px";
 chatWindow.style.width = "300px";
 chatWindow.style.height = "600px";
 
@@ -72,7 +72,7 @@ styleElement.innerHTML = `
     content: "\f086";
     font-family: FontAwesome;
     font-size: 24px;
-    color: #ffffff;
+    color: #ffffff00;
     position: absolute;
     top: 50%;
     left: 50%;
